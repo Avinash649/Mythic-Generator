@@ -1,0 +1,7 @@
+{
+  "name": "Mythic Generator",
+  "description": "Generate mini-myths in the style of Puranas based on a theme. The AI creates characters, a plot, symbolic meanings, and an optional illustration. Features include story expansion and audio narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
